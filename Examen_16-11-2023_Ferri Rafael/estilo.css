@@ -1,0 +1,37 @@
+header {
+    background-color: blanchedalmond;
+    padding: 20px;
+    border-color: #ff85eb;
+    border-width: 10px;
+    border-radius: 20px 20px 0px 0px;
+    align-items: flex-start
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+
+.encabezado {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    align-items: flex-end;
+    color: #ff85eb;
+
+
+}
+
+.img-index {
+    position: absolute;
+}
+
+body {
+    align-items:flex-start
+}
+
+footer {
+    background-color: blanchedalmond;
+    padding: 10px;
+    border-radius: 0px 0px 20px 20px;
+}
